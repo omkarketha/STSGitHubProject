@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootGitProjectSshApplication {
 
 	public static void main(String[] args) {
+		//Hi
 		SpringApplication.run(SpringBootGitProjectSshApplication.class, args);
 	}
 
